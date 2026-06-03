@@ -1,0 +1,65 @@
+ft_feature,activation,token,context
+2092,0.6834962368011475,:,"_kwargs: see config.Config for more details
+    [[:]]return: tuple (auxiliary app, auxiliary app port,"
+2092,0.6565721035003662,:,"����的��单
+    
+    [[:]]param uid: 用户的ID，可通过"
+2092,0.6243985295295715,:,"�或者其他接口��取
+    [[:]]param offset: (optional) 分��起始"
+2092,0.6067727208137512,:,":param id: ��单的ID
+    [[:]]param limit: (optional) 数据上限多少"
+2092,0.6013139486312866,:,"����、����等
+    [[:]]param offset: (optional) 分��起始"
+3960,0.2086312174797058, regex,".TOKENIZERRULES_)
+    :type[[ regex]]ps:  Tuple/list of regular expressions to use in"
+3960,0.18383194506168365,xml,"__)
+        return super(AbstractAnnotationLayer, self).[[xml]](attribs, elements, skipchildren)def append"
+3960,0.18083973228931427,xsd,"formats_dir+""dcoi-dsc.[[xsd]]"").readlines()))))
+            xmlschema.assertValid"
+3960,0.17408038675785065,DEBUG,"Config``
+    """"""
+    log_level = '[[DEBUG]]' if verbose else 'INFO'
+    return {
+"
+3960,0.13686901330947876,"
+","
+                    e.addtoindex(norecurse)[[
+]]                exceptdef copychildren(self, newdoc=None"
+4089,0.7675329446792603,username," credentials.split(':', 1)
+        result[[[username]]] = password
+    return resultdef _exclude_paths"
+4089,0.7560737133026123,id,"id:
+            self.doc.index[self.[[id]]] = self
+        for e in self.data:"
+4089,0.7538348436355591,id," in sorted( ((classid, classitem) for class[[id]], classitem in classes.items() if 'seqnr"
+4089,0.7426770329475403,id,"id:
+            self.doc.index[self.[[id]]] = self
+        for c in self:
+            "
+4089,0.7317811846733093,id," by class ID""""""
+        return [ classid for class[[id]], classitem in sorted( ((classid, classitem"
+3462,0.3141925036907196, to," in
+    GraphQL.
+    This function is similar[[ to]] `connectionFromArray`, but is intended for use
+    "
+3462,0.29012906551361084,00," '''
+            ... 1
+            ... 00:00:[[00]],000 --> 00:00:05,000
+            "
+3462,0.2575756907463074,d,"(edit this to scale the distance between nodes)
+    [[d]]ampening - Multiplier to reduce force applied to nodes"
+3462,0.24470949172973633,://,"XML/1998/namespace"", 'xlink':""http[[://]]www.w3.org/1999/xlink""})"
+3462,0.20579975843429565,00,"            ... 00:00:00,000 --> 00:[[00]]:05,000
+            ... An exampledef from_"
+1090,0.6201707720756531,fra," milliseconds (int, float or other numeric class).
+        [[fra]]ctions: Whether to print up to millisecond precision.
+"
+1090,0.4154393672943115,]),"['IGNORE_REQUEST_PATTERNS']
+        [[])]]def _ignore_sql(self, query):
+        "
+1090,0.4118366837501526,prom,"def connection_from_promised_list(data_[[prom]]ise, args=None, **kwargs):
+    '''"
+1090,0.4083317220211029,]),"['IGNORE_SQL_PATTERNS']
+        [[])]]def _duplicate_queries(self, output):"
+1090,0.3843691349029541,fra," and/or negative times. Non-negative times with ``[[fra]]ctions=True``
+    are matched by :data:`"

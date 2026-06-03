@@ -1,0 +1,2 @@
+pre_code_mse,pre_code_avg_l0,ft_code_mse,ft_code_avg_l0,mean_decoder_best_cosine,median_decoder_best_cosine,min_decoder_best_cosine,max_decoder_best_cosine,num_features,num_activation_vectors,layer,hook_name
+0.01198769360780716,628.3056640625,0.009607473388314247,677.68017578125,0.15625758469104767,0.13364242017269135,0.10556469857692719,0.7367433309555054,4096,50000,6,blocks.6.hook_resid_post
