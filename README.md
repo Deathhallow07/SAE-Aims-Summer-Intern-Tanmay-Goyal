@@ -68,10 +68,3 @@ feature firing rate
 max activation
 ```
 
-## Notes
-
-This is a prototype-level experiment. The SAEs are trained on 50,000 activation vectors, which is enough for a small research assignment but not enough for production-level SAE analysis.
-
-The features are also still quite dense, so I treat the interpretations carefully.
-
-Large files like `.pt` checkpoints should usually be uploaded to Google Drive instead of directly committing to GitHub.
